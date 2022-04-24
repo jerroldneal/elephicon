@@ -5,3 +5,4 @@ npm-*.log
 yarn-*.log
 .env
 .DS_Store
+yarn.lock
